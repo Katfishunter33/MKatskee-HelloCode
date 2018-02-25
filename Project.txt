@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<head>
+   <style>
+   {
+       font-family: "Arial Black"; font-style: normal; font-weight: 300;
+   }
+   <title>Umani Security Corporation</title>
+   </style>
+</head>
+<body>
+<h1>Welcome</h1>
+   <header>
+      <a href="/index.html">
+         <<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<style>
+img {
+	border-style: none;
+}
+.dev-page-view.view-mode-full .dev-content-full, .dev-page-view.view-mode-full_zoomed .dev-content-full, .dev-page-view .dev-content-normal {
+	display: block;
+}
+.dev-page-view .dev-content-normal, .dev-page-view .dev-content-full, .dev-page-view .journal-wrapper {
+	margin: 0 auto 8px;
+}
+.dev-page-view.cursor-zoom-in .dev-view-deviation img {
+	cursor: pointer, url(/minish/deviation/zoomin.cur);
+	cursor: -webkit-zoom-in;
+	cursor: -moz-zoom-in;
+}
+.dev-page-view .dev-view-deviation img.dev-content-normal, .dev-page-view .dev-view-deviation .devpage-gate-normal {
+	width: 624px;
+	height: 624px;
+}
+.dev-page-view .dev-view-deviation, .dev-page-view .dev-view-about {
+	position: relative;
+	z-index: 5;
+	margin-right: 342px;
+}
+.dev-page-view .dev-view-deviation {
+	min-height: 200px;
+}
+.dev-page-view .dev-view-deviation {
+	text-align: center;
+}
+.dev-page-view .dev-view-main-content {
+	width: 100%;
+	margin-right: -342px;
+	float: left;
+}
+.dev-page-view {
+	padding-top: 12px;
+}
+.bubbleview {
+	padding: 7px 15px;
+	background: #d6ded4;
+}
+.dev-page-container.bubbleview, body.fullview .dev-page-container.bubbleview, body.gruze .dev-page-container.bubbleview, body.deviant .dev-page-container.bubbleview {
+	position: relative;
+	background-color: #dae5d6;
+	padding: 0 0 0 10px;
+	min-width: 900px;
+}
+body {
+	font-size: 9pt;
+	font-family: Verdana,sans-serif;
+	color: #000;
+}
+body, #output {
+	background-color: #d4dfd0;
+}
+body {
+	-moz-transition: padding-top 1s;
+	-webkit-transition: padding-top 1s;
+	transition: padding-top 1s;
+}
+body {
+	background: #ccd9c8;
+	margin: 0;
+	padding: 50px 0 0 0;
+	box-sizing: border-box;
+	min-height: 100%;
+	position: relative;
+}
+body {
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+body.w960 {
+	min-width: 960px;
+}
+html {
+	height: 100%;
+}
+</style>
+</head>
+<body class="secure bubble no-apps maturefilter loggedout maturehide w960 deviantart withad" id="deviantART-v7"><div id="output"><div class="dev-page-container bubbleview" style="min-height: 662.42px;"><div class="dev-page-view view-mode-normal cursor-zoom-in" gmi-userid="23000352" gmi-deviationid="481855140" data-gmiclass="DeviationPageView" gmindex="3"><div class="dev-view-main-content"><div class="dev-view-deviation"><img width="894" height="894" class="dev-content-normal " style="top: 0px; width: 300px; height: 300px;" alt="Blume Logo by Fast-Cursor" src="https://pre00.deviantart.net/9c44/th/pre/f/2014/255/c/6/blume_logo_by_fast_cursor-d7yvtt0.png" data-embed-id="481855140" data-embed-format="thumb" data-embed-type="deviation" collect_rid="1:481855140"></div></div></div></div></div></body>
+</html>
+<h2>Umani Security</h2>
+   <body>
+   <div class="x-container max width" style="margin: 0px auto;padding 0px;">
+     <div class="x-column x-sm x-2-3" style="padding: 0px;">
+   <p>Umani Security is the top provider for security services in the Midwest and 
+      the surrounding cities. We offer private security for events, corporate events, condos and construction.</p>
+   
+   <p>Our security company provides clients many options when selecting the service mix right for the property, personnel, 
+      and other assets they wish to protect.</p>
+
+   <p>Also our security professionals have the expertise to develop solutions that effectively maximize service levels for each client needs.</p>
+     </div>
+   </div>
+   </body>
+<h3>About Us</h3>
+   <body>
+   <p>
+  
+
+
+    
+
