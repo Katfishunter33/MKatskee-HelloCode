@@ -1,0 +1,50 @@
+header{
+  text-align: center;  
+}
+body{
+    background: #000000 url(image/Umani.jpg) center center;
+    background-repeat: none;
+    color: #ffffff;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: dimgrey;
+}
+h2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: #ffffff;
+}
+h3{
+    text-align: left;
+    text-decoration-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 15px 0px 15px;
+}
+ul{
+    text-align: left;
+    text-decoration-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    text-align: left;
+    text-decoration-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol{
+    text-align: left;
+    text-decoration-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+title{
+    text-align: center;
+    text-decoration-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-align: left; 
+}
+.nav{
+    
+}
